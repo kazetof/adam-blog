@@ -1,25 +1,23 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: わかりたい日記
+email: fukasawakaze@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  日々の積み重ね
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: kazetof # add your name
+author-pic: kawauso.jpg
+about-author: たーのしー
 
 # Contact links
-email: # Add your Email address
+email: fukasawakaze@gmail.com
 phone: # Add your Phone number
-website: # Add your website, do not add http://
+website: kazetof.github.io/blog/ # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: kazetof # Add your Github handle
+twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
@@ -28,17 +26,18 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: kazetof # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 4
 paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
+# markdown: maruku # http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/
 
 plugins:
   - jekyll-paginate
