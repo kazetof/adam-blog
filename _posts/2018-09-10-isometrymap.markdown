@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 等長写像の性質
-date: 2018-09-10 00:55:20 +0900
+date: 2018-09-10 00:50:20 +0900
 description: None
 img: post-6.jpg # Add image post (optional)
 tags: [Blog, Math]

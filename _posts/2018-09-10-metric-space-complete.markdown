@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title: 距離空間の完備化
-date: 2018-08-10 00:55:20 +0300
+date: 2018-09-10 00:55:20 +0300
 description: None (optional)
 img: post-5.jpg # Add image post (optional)
 tags: [Blog, Math]
@@ -145,8 +145,8 @@ d^{\*} (x^{\*}, x_{n}^{\*}) \leq d^{\*} (x^{\*}, f(x_{n})) + d^{\*} (f(x_{n}), x
 
 以上で命題は構成的に証明された．$\square$
 
-
-
+## 備考
+一意性については別途照明の必要あり．
 
 ## 参考文献
 - 森田茂之, 集合と位相空間
