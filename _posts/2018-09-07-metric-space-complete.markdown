@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: 距離空間の完備化
 date: 2018-08-10 00:55:20 +0300
 description: None (optional)
