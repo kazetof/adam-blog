@@ -50,7 +50,7 @@ $$
 
 $\forall x \in X (d(x, x) = 0)$より，$\forall (x_{n}) \in C(\lim_{n \to \infty} d(x_{n}, x_{n})=0)$なので反射律を満たす．
 
-距離関数$d$の対称性より，$\lim_{n \to \infty} d(x_{n}, y_{n}) \Rightarrow \lim_{n \to \infty} d(y_{n}, x_{n}) = 0$なので対称律を満たす．
+距離関数$d$の対称性より，$\lim_{n \to \infty} d(x_{n}, y_{n}) \Rightarrow \lim_{n \to \infty} d(y_{n}, x_{n})$なので対称律を満たす．
 
 任意の$x_{n}, y_{n}, z_{n} \in X$について，三角不等式より，$d(x_{n}, z_{n}) \leq d(x_{n}, y_{n}) + d(y_{n}, z_{n})$が成り立つ．
 $(x_{n}), (y_{n}), (z_{n}) \in C$について，$\lim_{n \to \infty} d(x_{n}, z_{n}) \leq \lim_{n \to \infty} d(x_{n}, y_{n}) + \lim_{n \to \infty} d(y_{n}, z_{n})$となる．ここで，$(x_{n}) \simeq (y_{n}) \wedge (y_{n}) \simeq (z_{n})$が成り立つならば，この関係の定義より不等式の右辺は$0$となるため，$(x_{n}) \simeq (z_{n})$である．従って推移律を満たす．
