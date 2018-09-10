@@ -5,11 +5,11 @@ title: 距離空間の完備化
 date: 2018-09-10 00:55:20 +0300
 description: None (optional)
 img: post-5.jpg # Add image post (optional)
-tags: [Blog, Math]
+tags: [Blog, Math, 解析]
 author: kazetof # Add name author (optional)
 ---
 
-## 距離空間の完備化
+# 距離空間の完備化
 
 **定義1 完備**
 
@@ -145,10 +145,10 @@ d^{\*} (x^{\*}, x_{n}^{\*}) \leq d^{\*} (x^{\*}, f(x_{n})) + d^{\*} (f(x_{n}), x
 
 以上で命題は構成的に証明された．$\square$
 
-## 備考
+# 備考
 一意性については別途証明の必要あり．
 
-## 参考文献
+# 参考文献
 - 森田茂之, 集合と位相空間
 - 新井敏康, 集合・論理と位相
 - 吉田善章, 新版 応用のための関数解析

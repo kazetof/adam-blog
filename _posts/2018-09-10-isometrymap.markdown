@@ -4,11 +4,11 @@ title: 等長写像の性質
 date: 2018-09-10 00:50:20 +0900
 description: None
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Math]
+tags: [Blog, Math, 解析]
 author: kazetof # Add name author (optional)
 ---
 
-## 等長写像
+# 等長写像
 
 **定義1 等長写像**
 
@@ -78,7 +78,7 @@ $(x_{n})$が$X$上のコーシー列なので，任意の$\epsilon > 0$につい
 $d_{X}(x_{m}, x_{n}) = d_{Y}(f(x_{m}), f(x_{n}))$なので，このとき，同じ$\epsilon, N$に対して，
 任意の$m,n \in \mathbb{N}$について$m,n > N \Rightarrow d_{Y}(f(x_{m}), f(x_{n})) < \epsilon$が成り立っている．従って$(f(x_{n}))$もコーシー列である．$\square$
 
-## 後で読みたい資料
+# 後で読みたい資料
 これの等長変換のところ
 
 [http://www.math.nagoya-u.ac.jp/~kanai/2001kisoIV/ch3.pdf](http://www.math.nagoya-u.ac.jp/~kanai/2001kisoIV/ch3.pdf)
