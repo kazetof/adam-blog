@@ -29,7 +29,7 @@ mailchimp: # Add your MailChimp form identifier.
 discus_identifier: kazetof # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-102228101-2 # Google Analytics
 
 # Paginate
 paginate: 4
