@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 再生核ヒルベルト空間
-date: 2018-09-11 22:39:20 +0900
+date: 2018-09-13 20:45:20 +0900
 description: None
 img: post-1.jpg # Add image post (optional)
 tags: [Blog, Math, カーネル法]
