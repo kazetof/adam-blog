@@ -64,7 +64,7 @@ $\forall n \in \mathbb{R} \forall x_{1}, \cdots, x_{n} \in X \forall c_{1}, \cdo
 
 *証明*
 
-$X$上の再生核ヒルベルト空間$\mathcal{H}$の再生核$k$は$X$上の2変数関数，つまり，値域を$V$とするとき，$k: X \times X \to V$となる写像であった．この$k$とは異なる$k^{\prime}$が存在し，再生核の定義を満たす，つまり$\forall y \in X \bigl( k^{\prime}(y, x) = k_{x}(y) \bigl)$が成り立つとする．
+$X$上の再生核ヒルベルト空間$\mathcal{H}$の再生核$k$は$X$上の2変数関数，つまり，値域を$V$とするとき，$k: X \times X \to V$となる写像であった．この$k$とは異なる$k^{\prime}$が存在し，再生核の定義を満たす，つまり$\forall y \in X \bigl( k^{\prime}(y, x) = k_{x}^{\prime}(y) \bigl)$が成り立つとする．
 
 このとき，任意に$x \in X$が与えられたとき，命題1より$k_{x} = k_{x}^{\prime}$が成り立つため，$\forall y \in X (k(y, x) = k^{\prime}(y, x))$が成り立ち，これは$k$と$k^{\prime}$が$x$が与えられた元で1変数関数としては等しい，つまり$k(\cdot, x) = k^{\prime}(\cdot, x)$を意味する．
 
