@@ -26,7 +26,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: kazetof # Add your discus identifier
+discus_identifier: kazetofblog # Add your discus identifier
 
 # Tracker
 analytics: UA-102228101-2 # Google Analytics
