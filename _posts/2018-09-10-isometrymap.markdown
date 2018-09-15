@@ -6,6 +6,7 @@ description: None
 img: post-6.jpg # Add image post (optional)
 tags: [Blog, Math, 解析, 関数解析]
 author: kazetof # Add name author (optional)
+comments: true
 ---
 
 # 等長写像
