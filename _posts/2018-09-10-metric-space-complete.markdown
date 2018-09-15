@@ -5,7 +5,7 @@ title: 距離空間の完備化
 date: 2018-09-10 00:55:20 +0300
 description: None (optional)
 img: post-5.jpg # Add image post (optional)
-tags: [Blog, Math, 解析]
+tags: [Blog, Math, 解析, 関数解析, 集合と位相]
 author: kazetof # Add name author (optional)
 ---
 

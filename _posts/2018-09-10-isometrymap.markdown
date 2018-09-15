@@ -4,7 +4,7 @@ title: 等長写像の性質
 date: 2018-09-10 00:50:20 +0900
 description: None
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Math, 解析]
+tags: [Blog, Math, 解析, 関数解析]
 author: kazetof # Add name author (optional)
 ---
 
