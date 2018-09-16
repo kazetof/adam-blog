@@ -159,7 +159,7 @@ $$
 
 *証明($6\to7$)*
 
-零元で連続であるとき，$$\forall x \in X \forall \epsilon > 0 \delta >0 \bigl( \|x\|_{X} \leq \delta \Rightarrow \| T(x) \|_{Y} \leq \epsilon \big)$$が成り立ち，$X$は線形空間より$X$の2元について$x_{1} - x_{2} \in X$なので$$\forall x_{1}, x_{2} \in X \forall \epsilon > 0 \delta >0 \bigl( \|x_{1} - x_{2}\|_{X} \leq \delta \Rightarrow \| T(x_{1}) - T(x_{2}) \|_{Y} \leq \epsilon \big)$$が成り立ち，これは$x_{2}$で連続であることを意味する．(正確には6 -> 5 -> 7になっている) $\square$
+零元で連続であるとき，$$\forall x \in X \forall \epsilon > 0 \forall \delta >0 \bigl( \|x\|_{X} \leq \delta \Rightarrow \| T(x) \|_{Y} \leq \epsilon \big)$$が成り立ち，$X$は線形空間より$X$の2元について$x_{1} - x_{2} \in X$なので$$\forall x_{1}, x_{2} \in X \forall \epsilon > 0 \forall \delta >0 \bigl( \|x_{1} - x_{2}\|_{X} \leq \delta \Rightarrow \| T(x_{1}) - T(x_{2}) \|_{Y} \leq \epsilon \big)$$が成り立ち，これは$x_{2}$で連続であることを意味する．(正確には6 -> 5 -> 7になっている) $\square$
 
 *証明($7\to1$)*
 
