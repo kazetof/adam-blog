@@ -167,7 +167,7 @@ $$
 
 *証明($7\to1$)*
 
-線形作用素$T$がある1点$x_{0} \in X$で連続であると仮定する．このとき，このとき，任意の$x \in X$について$\epsilon=1$としてある$\delta > 0$が存在して，$$\| x - x_{0}\|_{X} \leq \delta \Rightarrow \| T(x - x_{0})\|_{Y} \leq 1$$が成り立つ．ここで，$$\| x - x_{0}\|_{X} \leq \delta$$が成り立つ$X$の元$x - x_{0}$を$$\Delta$$と書くと，任意の$x \in X$について，$$\bigl\| \delta \frac{x}{\|x\|_{X}}\bigr\|_{X} = \delta$$は$$\Delta$$の条件を満たす．
+線形作用素$T$がある1点$x_{0} \in X$で連続であると仮定する．このとき，このとき，任意の$x \in X$について$\epsilon=1$としてある$\delta > 0$が存在して，$$\| x - x_{0}\|_{X} \leq \delta \Rightarrow \| T(x - x_{0})\|_{Y} \leq 1$$が成り立つ．ここで，$$\| x - x_{0}\|_{X} \leq \delta$$が成り立つ$X$の元$x - x_{0}$を$$\Delta$$と書くと，任意の$x \in X$について，$$\delta \frac{x}{\|x\|_{X}}$$は，$$\bigl\| \delta \frac{x}{\|x\|_{X}}\bigr\|_{X} = \delta$$となり$$\Delta$$の条件を満たす．
 
 $$
 \| T(x) \|_{Y} = \delta^{-1} \delta \|x\|_{X}^{-1} \|x\|_{X} \| T(x) \|_{Y} = \delta^{-1} \| x \|_{X} \| T(\delta \frac{x}{\|x\|_{X}}) \| \leq \delta^{-1} \| x \|_{X}.
