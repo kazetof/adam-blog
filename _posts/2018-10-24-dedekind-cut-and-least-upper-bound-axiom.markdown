@@ -1,7 +1,7 @@
 ---
 layout: post
 title: デデキントの公理と有界性公理の同値性
-date: 2018-10-24 00:40:00 +0900
+date: 2018-10-24 00:30:00 +0900
 description: None
 img: post-4.jpg # Add image post (optional)
 tags: [Blog, Math, 解析]
