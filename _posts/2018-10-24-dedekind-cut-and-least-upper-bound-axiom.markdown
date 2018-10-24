@@ -84,7 +84,7 @@ $A$は有界であるため，ある$b \in \mathbb{R}$が存在し，$\forall a 
 $L$は$U$の補集合として定義しているため，$L \cap U = \emptyset$である．実際に，$L \cap U \neq \emptyset$とすると，$c \in L \cap U$がとれて，$c \in U$より$\forall a \in A (a \leq c)$である．一方で，$c \in L$より$\exists a \in A (a > c)$となり任意の$a$について$a \leq c$に矛盾する．従って$L \cap U = \emptyset$が示された．
 
 ### 3. $L \cup U = \mathbb{R}$．
-$L=U^{C}$であったため，$U^{C} \cup U = \mathbb{R}$を示す．まず，$U, U^{C} \in \mathbb{R}$より$U \cup U^{C} \subset \mathbb{R}$が成り立つ．一方で，任意に$a \in \mathbb{R}$をとると，$a \in U$または$a \notin U$のいずれかが成り立つ．従って任意の$a \in \mathbb{R}$について，$$a \in \mathbb{R} \Rightarrow a \in \{ a | a \in U \lor a \notin U \} = \{ a | a \in U \} \cup \{ a | a \notin U \} = U \cup U^{C}$$より，$\mathbb{R} \subset U^{C} \cup U$．以上より$U^{C} \cup U = \mathbb{R}$が示された．
+$L=U^{C}$であったため，$U^{C} \cup U = \mathbb{R}$を示す．まず，$U, U^{C} \subset \mathbb{R}$より$U \cup U^{C} \subset \mathbb{R}$が成り立つ．実際に，任意の$u \in U \cup U^{C}$について，$u \in U$であるとき$U \subset \mathbb{R}$より$u \in \mathbb{R}$であり，$u \in U^{C}$のときも同様に$U^{C} \subset \mathbb{R}$より$u \in \mathbb{R}$であるため，$U \cup U^{C} \subset \mathbb{R}$が成り立つ．一方で，任意に$a \in \mathbb{R}$をとると，$a \in U$または$a \notin U$のいずれかが成り立つ．従って任意の$a \in \mathbb{R}$について，$$a \in \mathbb{R} \Rightarrow a \in \{ a | a \in U \lor a \notin U \} = \{ a | a \in U \} \cup \{ a | a \notin U \} = U \cup U^{C}$$より，$\mathbb{R} \subset U^{C} \cup U$．以上より$U^{C} \cup U = \mathbb{R}$が示された．
 
 ### 4. $\forall a \in L \forall b \in U (a < b)$．
 任意に$a \in L$をとると，$a < c$となる$c \in A$が存在する．また，$U$の定義より任意の$c^{\prime} \in A$に対して，任意の$b \in U$は$c^{\prime} \leq b$が成り立つ．任意の$c^{\prime}$について成り立つため，$c$についても成り立ち，$a < c \leq b$となる．以上より，$\forall a \in L \forall b \in U (a < b)$が示された．
