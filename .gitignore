@@ -3,3 +3,8 @@ _site
 .jekyll-metadata
 node_modules/
 yarn.lock
+
+# ongoing
+_post/2018-09-19-RKHS-from-PDKernel.markdown
+_post/2018-09-19-Riesz-Representation-Theorem.markdown
+_post/2018-09-24-realnumber-and-continuity.markdown
